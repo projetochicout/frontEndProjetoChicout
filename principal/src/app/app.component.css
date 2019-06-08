@@ -1,0 +1,26 @@
+.brand-logo{
+
+color:lightseagreen;
+font-family:fantasy;
+}
+
+.menu{
+
+  box-shadow: 0ch;
+  background: transparent;
+}
+
+
+body {
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+}
+
+main {
+  flex: 1 0 auto;
+}
+h3{
+
+  color:lightseagreen;
+}
